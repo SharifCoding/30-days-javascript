@@ -1,7 +1,7 @@
 # [JavaScript 30 Day Challenge](https://javascript30.com/)
 ![JavaScript30](./day01DrumKit.png)
 
-<b>Day 1 - JavaScript Drum Kit</b>
+### Day 1 - JavaScript Drum Kit
 A simple website enables users to play drum sounds using 9 buttons on their keyboard.
 
 - What `<kbd>` does: The HTML Keyboard Input Element `<kbd>` represents user input and produces an inline element displayed in the browser's default monospace font.
@@ -45,11 +45,12 @@ You can listen for when a transition finishes, the length of the transition (in 
 key.addEventListener('transitionend', removeTransition)
 ```
 
-<b>Further Reading</b>
-- [http://keycode.info/](http://keycode.info/) - keyCode of each keyboard key
-- [addEventListener( )](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener) - called whenever the specified event is delivered to the target
-- [querySelector( )](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector) - returns the first Element within the document that matches the specified selector
-- [classList.add( )](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList#Methods) - add specified class values
-- [Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions) - control animation speed when changing CSS properties
+#### Further Reading
+- [http://keycode.info/](http://keycode.info/) - keyCode of each keyboard key.
+- [addEventListener( )](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener) - called whenever the specified event is delivered to the target.
+- [querySelector( )](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector) - returns the first Element within the document that matches the specified selector.
+- [classList.add( )](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList#Methods) - add specified class values.
+- [Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions) - control animation speed when changing CSS properties.
+- [Array.from](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from) - creates a new, shallow-copied Array instance from an array-like or iterable object.
 
 [Return to 30 Day Challenge](../README.md)
