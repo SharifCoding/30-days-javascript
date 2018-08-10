@@ -10,6 +10,7 @@ The HTML file has 3 `div` elements which correspond with the second, minute, and
 <div class="hand min-hand"></div>
 <div class="hand second-hand"></div>
 ```
+We'll create references to these elements and dynamically update certain CSS properties to change their positions so they reflect the current time.
 
 #### Date object
 You can extract the second, minute and hour of the date object by accessing it's object methods.

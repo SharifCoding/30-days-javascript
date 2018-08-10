@@ -8,8 +8,7 @@ Build 30 JavaScript app in 30 days with vanilla JavaScript; no frameworks, libra
 
 - [Day 1 - JavaScript Drum Kit](./day_01/README.md) - A simple website enables users to play drum sounds using 9 buttons on their keyboard.
 - [Day 2 - JS and CSS Clock](./day_02/README.md) - A simple website displays an analog clock over an elegant background.
-- [Day 3 - CSS Variables](./day_03/README.md)
-
-- [Day 4 - Array Cardio Day 1](./day_04/README.md)
+- [Day 3 - CSS Variables](./day_03/README.md) - A website enables users to edit a photo through CSS variables and filters.
+- [Day 4 - Array Cardio Day 1](./day_04/README.md) - Perform basic operations on JavaScript Arrays.
 
 - [Day 5 - Flex Panel Gallery](./day_05/README.md)
