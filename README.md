@@ -10,5 +10,4 @@ Build 30 JavaScript app in 30 days with vanilla JavaScript; no frameworks, libra
 - [Day 2 - JS and CSS Clock](./day_02/README.md) - A simple website displays an analog clock over an elegant background.
 - [Day 3 - CSS Variables](./day_03/README.md) - A website enables users to edit a photo through CSS variables and filters.
 - [Day 4 - Array Cardio Day 1](./day_04/README.md) - Perform basic operations on JavaScript Arrays.
-
-- [Day 5 - Flex Panel Gallery](./day_05/README.md)
+- [Day 5 - Flex Panel Gallery](./day_05/README.md) - Display images in a dynamic gallery using flexbox.

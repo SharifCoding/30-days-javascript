@@ -88,4 +88,6 @@ setDate();
 - [transform-origin](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin) - the transform-origin CSS property sets the origin for an element's transformations.
 - [transition-timing-function](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function) - used to describe how the intermediate values of the CSS properties being affected by a transition effect are calculated.
 
+[Return to top](#javascript-30-day-challenge)
+
 [Return to 30 Day Challenge](../README.md)

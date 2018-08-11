@@ -53,4 +53,6 @@ key.addEventListener('transitionend', removeTransition)
 - [Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions) - control animation speed when changing CSS properties.
 - [Array.from](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from) - creates a new, shallow-copied Array instance from an array-like or iterable object.
 
+[Return to top](#javascript-30-day-challenge)
+
 [Return to 30 Day Challenge](../README.md)

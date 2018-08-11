@@ -1,5 +1,5 @@
 # [JavaScript 30 Day Challenge](https://javascript30.com/)
-![JavaScript30](./day3CSSVariables.png)
+![JavaScript30](./day03CSSVariables.png)
 
 ### Day 3 - CSS Variables
 A website enables users to edit a photo through CSS variables and filters. This web page displays an image, and has 3 form inputs from which the user can manipulate the padding, blur amount, and background color of the image.
@@ -12,7 +12,7 @@ The `input` _HTML elements_ have a `name` property that corresponds with the CSS
 
 #### variables
 Like SASS, you can create variables for use throughout your stylsheet. The prefix `--` is necessary.
-```css
+```scss
 /* Definition - two hyphens (--) followed by the variable name */
 --base: #ffc600;
 
@@ -49,5 +49,7 @@ const suffix = this.dataset.sizing;
 - [CSS Tricks](https://css-tricks.com/almanac/properties/f/filter/) - Achieve varying visual effects.
 - [“for” attribute](https://stackoverflow.com/questions/18432376/what-does-for-attribute-do-in-html-label-tag) - What does “for” attribute do in HTML <label> tag?
 - [HTMLElement.dataset](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/dataset) - Access to custom data attributes (data-*) set on the element.
+
+[Return to top](#javascript-30-day-challenge)
 
 [Return to 30 Day Challenge](../README.md)
