@@ -11,3 +11,4 @@ Build 30 JavaScript app in 30 days with vanilla JavaScript; no frameworks, libra
 - [Day 3 - CSS Variables](./day_03/README.md) - A website enables users to edit a photo through CSS variables and filters.
 - [Day 4 - Array Cardio Day 1](./day_04/README.md) - Perform basic operations on JavaScript Arrays.
 - [Day 5 - Flex Panel Gallery](./day_05/README.md) - Display images in a dynamic gallery using flexbox.
+- [Day 6 - Ajax Type Ahead](./day_06/README.md) - Filter through a JSON based on what is being typed.
