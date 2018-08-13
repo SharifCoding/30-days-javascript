@@ -12,3 +12,4 @@ Build 30 JavaScript app in 30 days with vanilla JavaScript; no frameworks, libra
 - [Day 4 - Array Cardio Day 1](./day_04/README.md) - Perform basic operations on JavaScript Arrays.
 - [Day 5 - Flex Panel Gallery](./day_05/README.md) - Display images in a dynamic gallery using flexbox.
 - [Day 6 - Ajax Type Ahead](./day_06/README.md) - Filter through a JSON based on what is being typed.
+- [Day 7 - Array Cardio Day 2](./day_07/README.md) - Perform more operations on JavaScript Arrays.
