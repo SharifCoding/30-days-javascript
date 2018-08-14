@@ -13,3 +13,4 @@ Build 30 JavaScript app in 30 days with vanilla JavaScript; no frameworks, libra
 - [Day 5 - Flex Panel Gallery](./day_05/README.md) - Display images in a dynamic gallery using flexbox.
 - [Day 6 - Ajax Type Ahead](./day_06/README.md) - Filter through a JSON based on what is being typed.
 - [Day 7 - Array Cardio Day 2](./day_07/README.md) - Perform more operations on JavaScript Arrays.
+- [Day 8 - Fun with HTML5 Canvas](./day_08/README.md) - Have dynamic fun in a HTML5 Canvas.
