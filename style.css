@@ -13,7 +13,7 @@ body {
 }
 
 .jumbotron {
-  background-image:url('JS3-social-share.png');
+  background-image:url('./assets/JS3-social-share.png');
   background-size:cover;
   background-position:center;
   height:400px;
