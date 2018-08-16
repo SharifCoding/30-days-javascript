@@ -15,3 +15,4 @@ Build 30 JavaScript app in 30 days with vanilla JavaScript; no frameworks, libra
 - [Day 7 - Array Cardio Day 2](./day_07/README.md) - Perform more operations on JavaScript Arrays.
 - [Day 8 - Fun with HTML5 Canvas](./day_08/README.md) - Have dynamic fun in a HTML5 Canvas.
 - [Day 9 - Must Know Dev Tools Tricks](./day_09/README.md) - Perform some nifty tricks using the dev tools.
+- [Day 10 - Check Multiple Checkboxes](./day_10/README.md) - Select multiple checkboxes in succession by pressing the Shift key.
