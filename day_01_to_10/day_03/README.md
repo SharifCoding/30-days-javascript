@@ -52,4 +52,4 @@ const suffix = this.dataset.sizing;
 
 [Return to top](#javascript-30-day-challenge)
 
-[Return to 30 Day Challenge](../README.md)
+[Return to 30 Day Challenge](../../README.md)

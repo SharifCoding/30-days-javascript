@@ -169,4 +169,4 @@ In the code above, `obj` is an element passed to the reduce function which will 
 
 [Return to top](#javascript-30-day-challenge)
 
-[Return to 30 Day Challenge](../README.md)
+[Return to 30 Day Challenge](../../README.md)

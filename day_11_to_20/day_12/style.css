@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+  /* background: #9fa8da; */
+  background: url(./hands-purple-child-holding.jpg);
+  color: white;
+  font-family: 'helvetica neue', sans-serif;
+  font-weight: 100;
+  font-size: 40px;
+}
