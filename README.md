@@ -25,3 +25,6 @@ Build 30 JavaScript app in 30 days with vanilla JavaScript; no frameworks, libra
 - [Day 10 - Check Multiple Checkboxes](./day_01_to_10/day_10/README.md) - Select multiple checkboxes in succession by pressing the Shift key.
 - [Day 11 - Custom HTML5 Video Player](./day_11_to_20/day_11/README.md) - Customize the HTML5 Video Player with more advanced features.
 - [Day 12 - Key Sequence Detection](./day_11_to_20/day_12/README.md) - Detect a sequence of keys, like the Konami Code, using JS.
+- [Day 13 - Slide in on Scroll](./day_11_to_20/day_13/README.md) - Slide in images in a website when the user scrolls to their location.
+
+---
