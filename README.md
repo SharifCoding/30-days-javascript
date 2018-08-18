@@ -6,10 +6,9 @@
 
 Build 30 JavaScript app in 30 days with vanilla JavaScript; no frameworks, libraries, etc. Pacing is totally up to the individual. The idea behind these exercises is to utilize small amounts of what would regularly be `downtime` as moments in which we can build on our knowledge through some simple exercises.
 
----
-
 ![JavaScript30](./assets/indexDay00to07.png)
 
+- [Day 0 - JavaScript 30 Index Page]() - HTML and CSS website showing 30 days of JavaScript challenges.
 - [Day 1 - JavaScript Drum Kit](./day_01_to_10/day_01/README.md) - A simple website enables users to play drum sounds using 9 buttons on their keyboard.
 - [Day 2 - JS and CSS Clock](./day_01_to_10/day_02/README.md) - A simple website displays an analog clock over an elegant background.
 - [Day 3 - CSS Variables](./day_01_to_10/day_03/README.md) - A website enables users to edit a photo through CSS variables and filters.
@@ -26,5 +25,4 @@ Build 30 JavaScript app in 30 days with vanilla JavaScript; no frameworks, libra
 - [Day 11 - Custom HTML5 Video Player](./day_11_to_20/day_11/README.md) - Customize the HTML5 Video Player with more advanced features.
 - [Day 12 - Key Sequence Detection](./day_11_to_20/day_12/README.md) - Detect a sequence of keys, like the Konami Code, using JS.
 - [Day 13 - Slide in on Scroll](./day_11_to_20/day_13/README.md) - Slide in images in a website when the user scrolls to their location.
-
----
+- [Day 14 - Object and Arrays - Reference VS Copy](./day_11_to_20/day_14/README.md) - Understand the difference between references and copies in JavaScript.
