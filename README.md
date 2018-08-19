@@ -27,3 +27,4 @@ Build 30 JavaScript app in 30 days with vanilla JavaScript; no frameworks, libra
 - [Day 13 - Slide in on Scroll](./day_11_to_20/day_13/README.md) - Slide in images in a website when the user scrolls to their location.
 - [Day 14 - Object and Arrays - Reference VS Copy](./day_11_to_20/day_14/README.md) - Difference between references and copies in JavaScript.
 - [Day 15 - LocalStorage and Event Delegation](./day_11_to_20/day_15/README.md) - Use local storage to persist a list.
+- [Day 16 - CSS Text Shadow Mouse Move Effect](./day_11_to_20/day_16/README.md) - Changing orientation of a shadow depending on the mouse movement.
