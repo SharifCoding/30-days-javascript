@@ -28,3 +28,7 @@ Build 30 JavaScript app in 30 days with vanilla JavaScript; no frameworks, libra
 - [Day 14 - Object and Arrays - Reference VS Copy](./day_11_to_20/day_14/README.md) - Difference between references and copies in JavaScript.
 - [Day 15 - LocalStorage and Event Delegation](./day_11_to_20/day_15/README.md) - Use local storage to persist a list.
 - [Day 16 - CSS Text Shadow Mouse Move Effect](./day_11_to_20/day_16/README.md) - Changing orientation of a shadow depending on the mouse movement.
+- [Day 17 - Sorting Band Names without articles](./day_11_to_20/day_17/README.md) - Sort an array alphabetically and ignore any articles.
+- [Day 18 - Tally String Times with Reduce](./day_11_to_20/day_18/README.md) - Add up timestamps with reduce.
+- [Day 19 - Unreal Webcam Fun](./day_11_to_20/day_19/README.md) - Capture the feed from a webcam and manipulate it in different ways.
+- [Day 20 - Native Speech Recognition](./day_11_to_20/day_20/README.md) - Recognize speech and display the text in a page.
