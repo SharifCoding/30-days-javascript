@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  background: #7e57c2;
+  font-family: 'helvetica neue', sans-serif;
+  font-weight: 100;
+  font-size: 20px;
+}
+
+h1 {
+  max-width: 75%;
+  color: white;
+}
+
+ul{  
+  list-style: none;
+  color: lightgray;
+}
+
+li {
+  text-decoration: none;
+}
+
+#total {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

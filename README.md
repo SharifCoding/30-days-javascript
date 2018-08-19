@@ -17,7 +17,7 @@ Build 30 JavaScript app in 30 days with vanilla JavaScript; no frameworks, libra
 - [Day 6 - Ajax Type Ahead](./day_01_to_10/day_06/README.md) - Filter through a JSON based on what is being typed.
 - [Day 7 - Array Cardio Day 2](./day_01_to_10/day_07/README.md) - Perform more operations on JavaScript Arrays.
 
----
+![JavaScript30](./assets/indexDay08to15.png)
 
 - [Day 8 - Fun with HTML5 Canvas](./day_01_to_10/day_08/README.md) - Have dynamic fun in a HTML5 Canvas.
 - [Day 9 - Must Know Dev Tools Tricks](./day_01_to_10/day_09/README.md) - Perform some nifty tricks using the dev tools.
@@ -27,8 +27,11 @@ Build 30 JavaScript app in 30 days with vanilla JavaScript; no frameworks, libra
 - [Day 13 - Slide in on Scroll](./day_11_to_20/day_13/README.md) - Slide in images in a website when the user scrolls to their location.
 - [Day 14 - Object and Arrays - Reference VS Copy](./day_11_to_20/day_14/README.md) - Difference between references and copies in JavaScript.
 - [Day 15 - LocalStorage and Event Delegation](./day_11_to_20/day_15/README.md) - Use local storage to persist a list.
+
+---
+
 - [Day 16 - CSS Text Shadow Mouse Move Effect](./day_11_to_20/day_16/README.md) - Changing orientation of a shadow depending on the mouse movement.
 - [Day 17 - Sorting Band Names without articles](./day_11_to_20/day_17/README.md) - Sort an array alphabetically and ignore any articles.
-- [Day 18 - Tally String Times with Reduce](./day_11_to_20/day_18/README.md) - Add up timestamps with reduce.
-- [Day 19 - Unreal Webcam Fun](./day_11_to_20/day_19/README.md) - Capture the feed from a webcam and manipulate it in different ways.
-- [Day 20 - Native Speech Recognition](./day_11_to_20/day_20/README.md) - Recognize speech and display the text in a page.
+- [Day 18 - Tally String times with Reduce](./day_11_to_20/day_18/README.md) - Add up timestamps with reduce.
+
+[Return to top](#javascript-30-day-challenge)

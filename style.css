@@ -66,6 +66,16 @@ h3 {
   transition: all 0.2s;
 }
 
+.item__number {
+  position: absolute;
+  background: rebeccapurple;
+  color: #fff;
+  top: 0;
+  left: 0;
+  line-height: 2rem;
+  padding: 0.2rem 0.7rem;
+}
+
 .item.hidden {
   visibility: hidden;
 }
