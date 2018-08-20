@@ -33,5 +33,6 @@ Build 30 JavaScript app in 30 days with vanilla JavaScript; no frameworks, libra
 - [Day 16 - CSS Text Shadow Mouse Move Effect](./day_11_to_20/day_16/README.md) - Changing orientation of a shadow depending on the mouse movement.
 - [Day 17 - Sorting Band Names without articles](./day_11_to_20/day_17/README.md) - Sort an array alphabetically and ignore any articles.
 - [Day 18 - Tally String times with Reduce](./day_11_to_20/day_18/README.md) - Add up timestamps with reduce.
+- [Day 19 - Unreal Webcam Fun](./day_11_to_20/day_19/README.md) - Capture the feed from a webcam and manipulate it in different ways.
 
 [Return to top](#javascript-30-day-challenge)
