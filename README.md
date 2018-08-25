@@ -39,4 +39,8 @@ Build 30 JavaScript app in 30 days with vanilla JavaScript; no frameworks, libra
 - [Day 22 - Follow Along Link Highlighting](./day_21_to_30/day_22/README.md) - Highlight links when hovered upon dynamically.
 - [Day 23 - Speech Synthesis](./day_21_to_30/day_23/README.md) - Synthesize speech and utter text written by the user.
 
+---
+
+- [Day 24 - Sticky Nav](./day_21_to_30/day_24/README.md) - Fix the nav bar once users have scrolled past its initial location.
+
 [Return to top](#javascript-30-day-challenge)
