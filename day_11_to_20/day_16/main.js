@@ -6,7 +6,7 @@ const shadow = (event) => {
   // get the width & height properties of the 'hero' div
   const { offsetWidth: width, offsetHeight: height } = hero;
   // get the distance of the mouse from the event's target node in X and Y coordinates
-  let { offsetX: x, offsetY: y } = e;
+  let { offsetX: x, offsetY: y } = event;
 
   // if the element that the mouse is hovering over is different than the event's target element
   if (event.currentTarget !== event.target) {

@@ -28,7 +28,7 @@ Build 30 JavaScript app in 30 days with vanilla JavaScript; no frameworks, libra
 - [Day 14 - Object and Arrays - Reference VS Copy](./day_11_to_20/day_14/README.md) - Difference between references and copies in JavaScript.
 - [Day 15 - LocalStorage and Event Delegation](./day_11_to_20/day_15/README.md) - Use local storage to persist a list.
 
----
+![JavaScript30](./assets/indexDay16to23.png)
 
 - [Day 16 - CSS Text Shadow Mouse Move Effect](./day_11_to_20/day_16/README.md) - Changing orientation of a shadow depending on the mouse movement.
 - [Day 17 - Sorting Band Names without articles](./day_11_to_20/day_17/README.md) - Sort an array alphabetically and ignore any articles.
@@ -37,5 +37,6 @@ Build 30 JavaScript app in 30 days with vanilla JavaScript; no frameworks, libra
 - [Day 20 - Native Speech Recognition](./day_11_to_20/day_20/README.md) - Recognize speech and display the text in a page.
 - [Day 21 - Geolocation based Speedometer and Compass](./day_21_to_30/day_21/README.md) - Get the speed and direction of a user and display them with a compass.
 - [Day 22 - Follow Along Link Highlighting](./day_21_to_30/day_22/README.md) - Highlight links when hovered upon dynamically.
+- [Day 23 - Speech Synthesis](./day_21_to_30/day_23/README.md) - Synthesize speech and utter text written by the user.
 
 [Return to top](#javascript-30-day-challenge)
