@@ -54,7 +54,7 @@ left: linkCoords.left + window.scrollX,
 ```
 
 #### Further Reading
-- [Element.getBoundingClientRect( )](https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect) - Returns the size of an element and its position relative to the viewport..
+- [Element.getBoundingClientRect( )](https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect) - Returns the size of an element and its position relative to the viewport.
 - [Window.scrollY](https://developer.mozilla.org/en-US/docs/Web/API/Window/scrollY) - Returns the number of pixels that the document is currently scrolled vertically.
 - [Window.scrollX](https://developer.mozilla.org/en-US/docs/Web/API/Window/scrollX) - Returns the number of pixels that the document is currently scrolled horizontally.
 

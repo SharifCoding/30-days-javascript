@@ -47,11 +47,11 @@ key.addEventListener('transitionend', removeTransition)
 
 #### Further Reading
 - [http://keycode.info/](http://keycode.info/) - keyCode of each keyboard key.
-- [addEventListener( )](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener) - called whenever the specified event is delivered to the target.
-- [querySelector( )](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector) - returns the first Element within the document that matches the specified selector.
-- [classList.add( )](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList#Methods) - add specified class values.
-- [Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions) - control animation speed when changing CSS properties.
-- [Array.from](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from) - creates a new, shallow-copied Array instance from an array-like or iterable object.
+- [addEventListener( )](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener) - Called whenever the specified event is delivered to the target.
+- [querySelector( )](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector) - Returns the first Element within the document that matches the specified selector.
+- [classList.add( )](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList#Methods) - Add specified class values.
+- [Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions) - Control animation speed when changing CSS properties.
+- [Array.from](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from) - Creates a new, shallow-copied Array instance from an array-like or iterable object.
 
 [Return to top](#javascript-30-day-challenge)
 

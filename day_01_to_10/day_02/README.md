@@ -83,10 +83,10 @@ setDate();
 ```
 
 #### Further Reading
-- [JavaScript Date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date) - creates a JavaScript Date instance that represents a single moment in time.
-- [setInterval( )](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval) - repeatedly calls a function or executes a code snippet, with a fixed time delay between each call.
-- [transform-origin](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin) - the transform-origin CSS property sets the origin for an element's transformations.
-- [transition-timing-function](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function) - used to describe how the intermediate values of the CSS properties being affected by a transition effect are calculated.
+- [JavaScript Date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date) - Creates a JavaScript Date instance that represents a single moment in time.
+- [setInterval( )](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval) - Repeatedly calls a function or executes a code snippet, with a fixed time delay between each call.
+- [transform-origin](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin) - The transform-origin CSS property sets the origin for an element's transformations.
+- [transition-timing-function](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function) - Used to describe how the intermediate values of the CSS properties being affected by a transition effect are calculated.
 
 [Return to top](#javascript-30-day-challenge)
 
