@@ -42,5 +42,6 @@ Build 30 JavaScript app in 30 days with vanilla JavaScript; no frameworks, libra
 ---
 
 - [Day 24 - Sticky Nav](./day_21_to_30/day_24/README.md) - Fix the nav bar once users have scrolled past its initial location.
+- [Day 25 - Event Capture, Propagation, Bubbling and Once](./day_21_to_30/day_25/README.md) - Learn some rules about JavaScript's capture and bubbling.
 
 [Return to top](#javascript-30-day-challenge)
