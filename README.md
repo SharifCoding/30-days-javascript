@@ -45,5 +45,6 @@ Build 30 JavaScript app in 30 days with vanilla JavaScript; no frameworks, libra
 - [Day 25 - Event Capture, Propagation, Bubbling and Once](./day_21_to_30/day_25/README.md) - Learn some rules about JavaScript's capture and bubbling.
 - [Day 26 - Stripe Follow Along Dropdown](./day_21_to_30/day_26/README.md) - Get a dropdown to follow cursor through a nav bar.
 - [Day 27 - Click and Drag to Scroll](./day_21_to_30/day_27/README.md) - Click and drag through a carousel of items.
+- [Day 28 - Video Speed Controller UI](./day_21_to_30/day_28/README.md) - Control the speed of a video using a dedicated bar.
 
 [Return to top](#javascript-30-day-challenge)
