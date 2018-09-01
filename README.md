@@ -6,6 +6,24 @@
 
 Build 30 JavaScript app in 30 days with vanilla JavaScript; no frameworks, libraries, etc. Pacing is totally up to the individual. The idea behind these exercises is to utilize small amounts of what would regularly be `downtime` as moments in which we can build on our knowledge through some simple exercises.
 
+#### Built with
+* [npm](https://www.npmjs.com/) - Node Package Manager is the package manager for JavaScript
+* [BrowserSync](https://browsersync.io/) - BrowserSync is an automation tool that makes web development faster
+
+#### Installation
+To run this project you will need to download it onto your local machine and install `BrowserSync` dependency.
+Navigate inside the folder and install all dependencies by entering the following command on your terminal window:
+```
+npm install
+```
+Finally to run the server enter the following command in your terminal window:
+```
+npm start
+```
+This will run the server, open [http://localhost:3000](http://localhost:3000) to view it in the browser. If you make any changes and save the changes process will automatically refresh and you will be able to see the results in the browser.
+
+If you want to end the process hold `control` and press `c` in mac, if you are not using mac hold `ctrl` and press `c`.
+
 ![JavaScript30](./assets/indexDay00to07.png)
 
 - [Day 0 - JavaScript 30 Index Page]() - HTML and CSS website showing 30 days of JavaScript challenges.
@@ -39,7 +57,7 @@ Build 30 JavaScript app in 30 days with vanilla JavaScript; no frameworks, libra
 - [Day 22 - Follow Along Link Highlighting](./day_21_to_30/day_22/README.md) - Highlight links when hovered upon dynamically.
 - [Day 23 - Speech Synthesis](./day_21_to_30/day_23/README.md) - Synthesize speech and utter text written by the user.
 
----
+![JavaScript30](./assets/indexDay24to31.png)
 
 - [Day 24 - Sticky Nav](./day_21_to_30/day_24/README.md) - Fix the nav bar once users have scrolled past its initial location.
 - [Day 25 - Event Capture, Propagation, Bubbling and Once](./day_21_to_30/day_25/README.md) - Learn some rules about JavaScript's capture and bubbling.
@@ -47,5 +65,7 @@ Build 30 JavaScript app in 30 days with vanilla JavaScript; no frameworks, libra
 - [Day 27 - Click and Drag to Scroll](./day_21_to_30/day_27/README.md) - Click and drag through a carousel of items.
 - [Day 28 - Video Speed Controller UI](./day_21_to_30/day_28/README.md) - Control the speed of a video using a dedicated bar.
 - [Day 29 - Countdown Clock](./day_21_to_30/day_29/README.md) - Display a countdown timer and enable quick breaks.
+- [Day 30 - Whack A Mole Game](./day_21_to_30/day_30/README.md) - Play the classic Whack A Mole game.
+- [Bonus - Temperature Converter](./day_21_to_30/day_31/README.md) - Build a temperature converter with HTML CSS and Javascript.
 
 [Return to top](#javascript-30-day-challenge)

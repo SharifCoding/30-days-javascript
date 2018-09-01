@@ -1,0 +1,44 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: black;
+}
+
+div {
+  height: 33.33vh;
+}
+
+#fahrenheit {
+  border-top: 4px sold wheat;
+  border-bottom: 4px sold wheat;
+}
+input[type=number] {
+  width: 100%;
+  height: 100%;
+  font-family: sans-serif;
+  background: black;
+  color: cornsilk;
+  outline: none;
+  font-size: 10em;
+  text-align: center;
+  border: 0;
+}
+
+/* chrome opera safari support */
+::-webkit-input-placeholder {
+  color: darkslategray;
+}
+
+/* firefox support */
+::-moz-input-placeholder {
+  color: darkslategray;
+}
+
+/* edge support */
+::-ms-input-placeholder {
+  color: darkslategray;
+}

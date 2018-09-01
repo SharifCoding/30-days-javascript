@@ -1,0 +1,31 @@
+{
+  "name": "javascript30",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "npm": "6.4.0",
+    "node": "8.9.4"
+  },
+  "description": "Build 30 JavaScript app in 30 days with vanilla JavaScript",
+  "main": "main.js",
+  "scripts": {
+    "start": "browser-sync start --server --files \"*.css, *.html, *.js\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SharifCoding/30-days-javascript-.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "SharifCoding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SharifCoding/30-days-javascript-/issues"
+  },
+  "homepage": "https://github.com/SharifCoding/30-days-javascript-#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.6"
+  }
+}
