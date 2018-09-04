@@ -6,6 +6,8 @@
 
 Build 30 JavaScript app in 30 days with vanilla JavaScript; no frameworks, libraries, etc. Pacing is totally up to the individual. The idea behind these exercises is to utilize small amounts of what would regularly be `downtime` as moments in which we can build on our knowledge through some simple exercises.
 
+<b>Assignment Link - https://sharifcoding.github.io/projects/JavaScript30/index.html</b>
+
 #### Built with
 * [npm](https://www.npmjs.com/) - Node Package Manager is the package manager for JavaScript
 * [BrowserSync](https://browsersync.io/) - BrowserSync is an automation tool that makes web development faster
